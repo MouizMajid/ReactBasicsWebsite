@@ -1,4 +1,6 @@
 # ReactBasicsWebsite
 Just a small project I used to learn ReactJS. 
 
-It's a website for viewing movie covers. 
+It's a website for viewing movie covers.
+
+more changes. 
