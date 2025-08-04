@@ -3,13 +3,15 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import MovieCard from './components/MovieCard'
+import Home from './pages/Home'
 function App() {
 
   const movieNumber = 1;
-  
+
   return (
     <>
-      <MovieCard  movie={{title: "Avengers", release_date: "2012",  }}/>
+
+      <Home />
     </>
   )
 }
